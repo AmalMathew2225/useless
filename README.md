@@ -1,65 +1,99 @@
-# Absurd Autocorrect Chrome Extension 🌀
+<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
-A quirky Chrome extension that turns your typing into chaos with absurd autocorrect suggestions!
 
-## Features
+# [Project Name] 🎯
 
-- **Chaos Mode**: Activate absurd autocorrect that replaces common words with ridiculous alternatives
-- **Thesaurus Mode**: Enhanced word replacement with more sophisticated absurdity
-- **Quirky UI**: Fun, playful interface with spinning emojis and pastel colors
-- **Mobile-Friendly**: Responsive design that works on all screen sizes
-- **Keyboard Shortcuts**: 
-  - Spacebar: Toggle chaos mode
-  - T key: Toggle thesaurus mode
 
-## Installation
+## Basic Details
+### Team Name: [Name]
 
-1. **Download the extension files** to a folder on your computer
-2. **Open Chrome** and navigate to `chrome://extensions/`
-3. **Enable Developer Mode** by toggling the switch in the top right
-4. **Click "Load unpacked"** and select the folder containing the extension files
-5. **Pin the extension** to your toolbar for easy access
 
-## Usage
+### Team Members
+- Team Lead: [Name] - [College]
+- Member 2: [Name] - [College]
+- Member 3: [Name] - [College]
 
-1. **Click the extension icon** in your Chrome toolbar
-2. **Click "Activate Chaos"** to enable absurd autocorrect
-3. **Toggle "Thesaurus Mode"** for enhanced absurdity
-4. **Start typing** on any website and watch the magic happen!
+### Project Description
+[2-3 lines about what your project does]
 
-## File Structure
+### The Problem (that doesn't exist)
+[What ridiculous problem are you solving?]
 
-```
-absurd-autocorrect/
-├── manifest.json      # Extension configuration
-├── popup.html         # Popup UI structure
-├── popup.css          # Styling and animations
-├── popup.js           # Popup functionality
-├── content.js         # Content script for autocorrect
-└── README.md          # This file
-```
+### The Solution (that nobody asked for)
+[How are you solving it? Keep it fun!]
 
-## Customization
+## Technical Details
+### Technologies/Components Used
+For Software:
+- [Languages used]
+- [Frameworks used]
+- [Libraries used]
+- [Tools used]
 
-You can customize the absurd replacements by editing the `replacements` object in `content.js`. Add your own word pairs to make the autocorrect even more ridiculous!
+For Hardware:
+- [List main components]
+- [List specifications]
+- [List tools required]
 
-## Color Palette
+### Implementation
+For Software:
+# Installation
+[commands]
 
-The extension uses a playful pastel color scheme:
-- **Pink gradient**: #ff9a9e to #fecfef
-- **Purple accents**: #8b5cf6, #a855f7
-- **Hot pink button**: #ff6b9d to #c44569
+# Run
+[commands]
 
-## Browser Compatibility
+### Project Documentation
+For Software:
 
-- Chrome 88+
-- Edge 88+ (Chromium-based)
-- Other Chromium-based browsers
+# Screenshots (Add at least 3)
+![Screenshot1](Add screenshot 1 here with proper name)
+*Add caption explaining what this shows*
 
-## License
+![Screenshot2](Add screenshot 2 here with proper name)
+*Add caption explaining what this shows*
 
-This project is open source and available under the MIT License.
+![Screenshot3](Add screenshot 3 here with proper name)
+*Add caption explaining what this shows*
+
+# Diagrams
+![Workflow](Add your workflow/architecture diagram here)
+*Add caption explaining your workflow*
+
+For Hardware:
+
+# Schematic & Circuit
+![Circuit](Add your circuit diagram here)
+*Add caption explaining connections*
+
+![Schematic](Add your schematic diagram here)
+*Add caption explaining the schematic*
+
+# Build Photos
+![Components](Add photo of your components here)
+*List out all components shown*
+
+![Build](Add photos of build process here)
+*Explain the build steps*
+
+![Final](Add photo of final product here)
+*Explain the final build*
+
+### Project Demo
+# Video
+[Add your demo video link here]
+*Explain what the video demonstrates*
+
+# Additional Demos
+[Add any extra demo materials/links]
+
+## Team Contributions
+- [Name 1]: [Specific contributions]
+- [Name 2]: [Specific contributions]
+- [Name 3]: [Specific contributions]
 
 ---
+Made with ❤️ at TinkerHub Useless Projects 
 
-**Warning**: This extension is for entertainment purposes only. Use responsibly and don't blame us for any confusion caused by absurd autocorrect! 😄 
+![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
+![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
